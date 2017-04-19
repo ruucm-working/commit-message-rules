@@ -1,7 +1,7 @@
 # commit-message-rules
 
-# CSS
+## CSS
 (CSS) ~
 
-# Debug
+## Debug
 (🐜) ~
