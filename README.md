@@ -5,3 +5,9 @@
 
 ## Debug
 (🐜) ~
+
+## Important Feature
+(I-F) ~
+
+## Feature
+(F) ~
