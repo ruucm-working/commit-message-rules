@@ -1,13 +1,16 @@
 # commit-message-rules
 
 ## CSS
-(CSS) ~
+(CSS) [commit message]
 
 ## Debug
-(🐜) ~
+(🐜) [commit message]
 
 ## Important Feature
-(I-F) ~
+(I-F) [commit message]
 
 ## Feature
-(F) ~
+(F) [commit message]
+
+## Code Formatting or Cleaning
+(📦) [commit message]
