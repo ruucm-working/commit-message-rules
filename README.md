@@ -4,7 +4,7 @@
 (CSS) [commit message]
 
 ## Debug
-(🐜) [commit message]
+(🐜) [commit message] OR (D) [commit message]
 
 ## Important Feature
 (I-F) [commit message]
@@ -13,4 +13,4 @@
 (F) [commit message]
 
 ## Code Formatting or Cleaning
-(📦) [commit message]
+(📦) [commit message] OR (C) [commit message]
